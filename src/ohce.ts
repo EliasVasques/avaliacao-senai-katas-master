@@ -1,7 +1,7 @@
 function ohce(word:string){
-
-    return word.split('').reverse().join('') == word;
-
+    let reversedWord =  word.split('').reverse().join('');
+    if(word == reversedWord) return "Gostei da palavra!";
+    return reversedWord;
 }
 
 export {ohce}
