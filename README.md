@@ -37,7 +37,5 @@ O método getScore() deve sempre retornar uma string com sete caracteres. Por ex
 2. Instale as dependências executando o comando `npm install`
 3. Por fim, executar o comando `npm test`
 
-O projeto deverá ser entregue até o dia 10/03/2022. Passar o link do repositório para o e-mail **douglas.silva@ba.docente.senai.br** com o título Atividade Avaliativa 1 – Seu Nome (Ex.: Atividade Avaliativa 1 – João Batista)
-
 <!-- markdownlint-disable MD026 -->
 ## Bom estudo a todos!!!
